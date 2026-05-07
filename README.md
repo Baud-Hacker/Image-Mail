@@ -1,4 +1,4 @@
-# [Image-mail]
+# Image-mail
 
 Render an HTML email to a PNG and emit a new HTML email where every original
 `<a href>` becomes a clickable region (HTML image map) over its rendered
