@@ -71,7 +71,7 @@ build/email.debug.html  # only with --debug — visualize hotspots in a browser
    line, not a big union covering the gap.
 5. Emits an HTML page using a `<map>` and one `<area>` per rect.
 
-## Email-client compatibility
+## Email-client compatibility (Un-Tested)
 
 Image maps are supported in every major email client:
 
